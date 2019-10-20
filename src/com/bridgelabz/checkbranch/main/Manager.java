@@ -11,6 +11,7 @@ public class Manager
 		System.out.println("This part is edited by Sibadatta Nayak");
 		System.out.println(p);
 		System.out.println("This part is again edited by Sibadatta Nayak");
+		System.out.println("After 1st merge");
 		
 	}
 }
