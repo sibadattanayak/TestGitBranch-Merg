@@ -9,5 +9,8 @@ public class Manager
 		p.setEmail("dewangan143.ajay@gmail.com");
 		System.out.println(p);
 		System.out.println("This part is edited by Sibadatta Nayak");
+		System.out.println(p);
+		System.out.println("This part is again edited by Sibadatta Nayak");
+		
 	}
 }
