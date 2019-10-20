@@ -8,7 +8,5 @@ public class Manager
 		p.setName("ajay");
 		p.setEmail("dewangan143.ajay@gmail.com");
 		System.out.println(p);
-		
 	}
-
 }
